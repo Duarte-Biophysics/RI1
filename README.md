@@ -1,4 +1,4 @@
-# RL1-Comparar Herois
+# RI1-Comparar Herois
 um código onde compara heróis da **Marvel** entre si e dita um vencedor de acordo com os atributos de cada um
 são eles:
 - Thor
